@@ -33,8 +33,8 @@
 
 1. No makes/misses tracking, manual or camera, because HomeCourt takes care of it for us
 2. Video demonstrations are not synced from Google Sheets, because v1 stores a link per exercise
-3. No multiple users or multi-person tracking, because v1 is just for me since the app is web/phone-first
-4. No apple health integration yet
+3. No multiple users or multi-person tracking, because v1 is just for me
+4. No apple health integration, because v1 is web/phone-first
 
 ## Open questions
 
@@ -43,4 +43,3 @@
 - Offline: when does a saved set sync, and what happens if the same set is edited on two devices?
 - Lifting plan PDF: parse it into exercises, sets, and reps, attach it as-is, or type it in once?
 - Shooting plan: upload the Excel file each time it changes, or sync from Google Sheets?
-
